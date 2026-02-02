@@ -2,6 +2,7 @@
 # > OpenAI
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,oaiusercontent.com
 # > Gemini
 DOMAIN,gemini.google.com
 DOMAIN,proactivebackend-pa.googleapis.com
